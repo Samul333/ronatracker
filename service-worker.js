@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ronatracker/precache-manifest.707354f118fe1911a376ad745046e472.js"
+  "/ronatracker/precache-manifest.735630770980ddbe5b083f08950b2b72.js"
 );
 
 self.addEventListener('message', (event) => {
