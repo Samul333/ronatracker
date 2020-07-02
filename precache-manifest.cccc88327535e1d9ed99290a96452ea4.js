@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40e920ebf4b0e7138877f4d135c8aaca",
+    "revision": "e593d6d0cb7d68a024a7748509ae5fd3",
     "url": "/ronatracker/index.html"
   },
   {
-    "revision": "b7fc47ddf2fce28bb746",
+    "revision": "61901a8afcd5c8e6d24f",
     "url": "/ronatracker/static/css/main.61db8e46.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ronatracker/static/js/2.ec2055fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7fc47ddf2fce28bb746",
-    "url": "/ronatracker/static/js/main.e0752ec6.chunk.js"
+    "revision": "61901a8afcd5c8e6d24f",
+    "url": "/ronatracker/static/js/main.f3e075bd.chunk.js"
   },
   {
     "revision": "68b265daf5cc115f7f6b",
