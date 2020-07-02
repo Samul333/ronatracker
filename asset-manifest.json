@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ronatracker/static/css/main.61db8e46.chunk.css",
+    "main.js": "/ronatracker/static/js/main.e0752ec6.chunk.js",
+    "main.js.map": "/ronatracker/static/js/main.e0752ec6.chunk.js.map",
+    "runtime-main.js": "/ronatracker/static/js/runtime-main.a172c4ca.js",
+    "runtime-main.js.map": "/ronatracker/static/js/runtime-main.a172c4ca.js.map",
+    "static/js/2.ec2055fe.chunk.js": "/ronatracker/static/js/2.ec2055fe.chunk.js",
+    "static/js/2.ec2055fe.chunk.js.map": "/ronatracker/static/js/2.ec2055fe.chunk.js.map",
+    "index.html": "/ronatracker/index.html",
+    "precache-manifest.835abdb9dffd61ecc6e6f12750450284.js": "/ronatracker/precache-manifest.835abdb9dffd61ecc6e6f12750450284.js",
+    "service-worker.js": "/ronatracker/service-worker.js",
+    "static/css/main.61db8e46.chunk.css.map": "/ronatracker/static/css/main.61db8e46.chunk.css.map",
+    "static/js/2.ec2055fe.chunk.js.LICENSE.txt": "/ronatracker/static/js/2.ec2055fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a172c4ca.js",
+    "static/js/2.ec2055fe.chunk.js",
+    "static/css/main.61db8e46.chunk.css",
+    "static/js/main.e0752ec6.chunk.js"
+  ]
+}
